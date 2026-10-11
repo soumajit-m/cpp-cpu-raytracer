@@ -1,0 +1,30 @@
+.aider*
+
+# Visual Studio
+.vs/
+
+# CMake build output
+CMakeFiles/
+cmake-build-*/
+build/
+out/
+
+# Generated CMake files
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+
+# Package manager output
+vcpkg_installed/
+
+# Compiled binaries and object files
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
